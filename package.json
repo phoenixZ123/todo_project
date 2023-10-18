@@ -13,6 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "json":"json-server src/data/db.json -w -p=2888",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
